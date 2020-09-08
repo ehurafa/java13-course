@@ -1,4 +1,4 @@
-package fudamentos;
+package fudamentos.operadores;
 
 public class Aritmeticos {
 	
