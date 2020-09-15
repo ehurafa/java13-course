@@ -1,4 +1,4 @@
-package fudamentos;
+package fundamentos;
 
 public class PrimitivoVsObjeto {
 	

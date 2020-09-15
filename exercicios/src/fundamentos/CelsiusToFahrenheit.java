@@ -1,4 +1,4 @@
-package fudamentos;
+package fundamentos;
 
 import java.util.Scanner;
 
